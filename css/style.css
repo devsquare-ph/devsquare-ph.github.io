@@ -37,12 +37,31 @@ p {
   #index-banner .section {
     top: 10%;
   }
+
+.center-bottom {
+    position: absolute;
+    left: 0%;
+    top: 75%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
 }
 
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
   }
+
+  .center-bottom {
+    position: absolute;
+    left: 0%;
+    top: 75%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
 }
 
 .icon-block {
@@ -50,6 +69,15 @@ p {
 }
 .icon-block .material-icons {
   font-size: inherit;
+}
+
+.center-bottom {
+    position: absolute;
+    left: 0%;
+    top: 75%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
 }
 
 footer.page-footer {
