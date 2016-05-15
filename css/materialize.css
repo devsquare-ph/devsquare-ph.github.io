@@ -104,7 +104,7 @@
 }
 
 .red-text.text-lighten-3 {
-  color: #EF9A9A !important;
+  color: #FF0000 !important;
 }
 
 .red.lighten-2 {
@@ -128,7 +128,7 @@
 }
 
 .red-text {
-  color: #F44336 !important;
+  color: #c0392b !important;
 }
 
 .red.darken-1 {
@@ -1012,7 +1012,7 @@
 }
 
 .teal.lighten-1 {
-  background-color: #26a69a !important;
+  background-color: #c0392b !important;
 }
 
 .teal-text.text-lighten-1 {
@@ -1020,7 +1020,7 @@
 }
 
 .teal {
-  background-color: #009688 !important;
+  background-color: #c0392b !important;
 }
 
 .teal-text {
@@ -1920,7 +1920,7 @@
 }
 
 .brown-text {
-  color: #795548 !important;
+  color: #c0392b   !important;
 }
 
 .brown.darken-1 {
